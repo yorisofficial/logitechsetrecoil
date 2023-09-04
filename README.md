@@ -18,11 +18,14 @@ Please note that using scripts in games may violate the game's terms of service 
 
 ## How to Use
 
+Before using this script, make sure to follow these steps:
+
 1. [Download the Logitech G HUB software](https://www.logitechg.com/en-us/innovation/g-hub.html) if you haven't already.
-2. Open Logitech G HUB as an administrator (if required).
+2. Open Logitech G HUB as an administrator (required).
 3. Import the script into Logitech G HUB.
 4. Customize the script settings as needed.
-5. Launch the supported game and use the script as described in the script's documentation.
+5. Make sure your mouse DPI is set to 1700 for optimal performance.
+6. Launch the supported game and use the script as described in the script's documentation.
 
 ## Customization
 
